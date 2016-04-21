@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rev Doc Denise Hall]]></title>
         <description><![CDATA[Rev Doc Denise Hall]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/revdocdenisehall/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 20:12:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 20:12:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/revdocdenisehall/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>THIS WEEK'S AFFIRMATION“Today I open my heart and mind to new ideas and new ways of being. I live in the consciousness of One Spirit, One Community as I vision for a world that works for everyone and a life that works for me.”</p>]]></description>
+            <link>https://thegrid.ai/revdocdenisehall/8fe2eea2-0fcf-4f6c-a773-9569215aa891/index.html</link>
+            <guid isPermaLink="false">8fe2eea2-0fcf-4f6c-a773-9569215aa891</guid>
+            <pubDate>Thu, 21 Apr 2016 20:12:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>What ought one do with 'information overload' regarding health & wellness for your animals? Join Dr. Hall April 25 at 5:30 PM to learn about wholistic integrative veterinary medicine. Register HERE</p>]]></description>
-            <link>undefinedwhat-ought-one-do-with-information-overload-regarding-heal/index.html</link>
+            <link>https://thegrid.ai/revdocdenisehall/what-ought-one-do-with-information-overload-regarding-heal/index.html</link>
             <guid isPermaLink="false">d22fd44b-42ee-4538-a69b-de1dcc825a4f</guid>
             <pubDate>Thu, 21 Apr 2016 20:12:33 GMT</pubDate>
         </item>
